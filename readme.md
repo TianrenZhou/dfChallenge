@@ -12,3 +12,6 @@ sh run.sh
 ## Usage Examples
 ![Image of demo](/demo2.png)
 ![Image of demo](/demo1.png)
+![Image of demo](/demo3.png)
+![Image of demo](/demo4.png)
+![Image of demo](/demo5.png)
